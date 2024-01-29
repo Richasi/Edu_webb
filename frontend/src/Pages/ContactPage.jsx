@@ -44,7 +44,7 @@ export const ContactPage = () => {
         <div>
           <p>
             Born and raised in a quaint Indian village, <br />
-            eduSync founder Ranjit faced limited educational opportunities until
+            eduSync founder Richa faced limited educational opportunities until
             he gained access to a computer. <br />
             Fueled by his dream to excel in mathematics, <br />
             he navigated the vast expanse of the internet, ultimately earning a
@@ -52,7 +52,7 @@ export const ContactPage = () => {
             <br />
             <br />
             Witnessing the transformative power of online learning in his own
-            life, Ranjit collaborated with co-founders Vishwendra,
+            life,
             <br /> driven by a common vision: to bring quality education within
             reach for every individual through eduSync in India.
           </p>
