@@ -1,10 +1,7 @@
 
 <div align="center">
        
- <h2>Block 32 - Construct Week Group Project</h2>
- <h3>Project Code : coding-premi-1098 </h3>
- <h3>Project Name : EduSync </h3>  
-
+ 
  </div>
 
  ##
@@ -45,7 +42,7 @@ Rest assured, your personal information is safeguarded with the highest level of
 # Different Pages of Website
 ### Homepage
 <img width="950" alt="Screenshot_110" src="./frontend/src/Assets/homepage.png">
-<!-- <img width="950" alt="Screenshot_117" src="https://github.com/Anburaj07/deluxe-change-1738/assets/123880321/9af84f84-074c-473f-bde1-f8c7596d7c44"> -->
+<
 
 
 ### Courses
@@ -53,15 +50,7 @@ Rest assured, your personal information is safeguarded with the highest level of
 
 
 
-## Our Collaborators
-- Ranjeet Gupta (Team lead)
-- Anshul Dhakate
-- Richa Singh
-- Rajneesh Yadav
-- Vishvendra Tomar
 
-
- ##
  
 ## Run Locally  💻
 
